@@ -1,5 +1,3 @@
-# The-Perfect-Guess
-"The Perfect Guess" is a simple, fun guessing game where players try to predict a hidden number within a range. This beginner-friendly project demonstrates core programming concepts like loops, conditionals, and user interaction, making it perfect for those new to coding.
 # The Perfect Guess 🎯
 
 The Perfect Guess is a simple number guessing game. Challenge yourself to guess the secret number chosen by the program! This beginner-friendly project helps you learn basic programming concepts.
